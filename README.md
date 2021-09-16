@@ -41,7 +41,7 @@ https://lab.ndl.go.jp/dataset/ocronelinedataset/ocronelinedataset_pdm.zip
 
 ## 3.画像ファイルのディレクトリ構成について
 縦書きの1行画像はoneline_tateディレクトリ、横書きの1行画像はoneline_yokoディレクトリに分かれて配置されています。
-必要な解像度と異なる場合には、正解データのIIIF Image APIの仕様(https://iiif.io/api/image/2.1/#region
+必要な解像度と異なる場合には、正解データに含まれるURLを参考に、IIIF Image APIの仕様(https://iiif.io/api/image/2.1/#region
 )に従って適宜サイズを調整して取得してください。
 
 
