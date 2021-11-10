@@ -54,7 +54,7 @@ https://lab.ndl.go.jp/dataset/ocronelinedataset/ocronelinedataset_pdm.zip
 
 という形式で記述しています。 例えば1904210_0008_jzRAqe3gqxN.jpg は、
 http://dl.ndl.go.jp/info:ndljp/pid/1904210 
-のコマ番号3を意味します。
+のコマ番号8を意味します。
 
 PIDと資料名の対応については、以下から提供している書誌データを参考にしてください。
 
